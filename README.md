@@ -1,2 +1,3 @@
--Live_Resume
--A dynamic and interactive resume built using modern web technologies. Showcases skills, experience, and projects in a visually appealing and easily updatable format.
+- Live_Resume.
+- https://sourabhpatil0404.github.io/Live_Resume/
+  
